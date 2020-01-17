@@ -1,0 +1,37 @@
+.buttons {
+ text-align: center;
+}
+
+.modalbuttons {
+ text-align: right;
+}
+
+.login {
+    margin: 0 auto;
+    text-align:center;
+}
+.selectadj {
+    width: 200px;
+    height: 30px;
+      
+}
+
+
+.errorDiol {
+ text-align: center;
+ font-size: 24px;
+ color: red;
+}
+
+.senderNoti {
+ text-align: center;
+ font-size: 24px;
+}
+
+#cancelbtn {
+width: 70px;
+}
+
+#nobtn{
+width: 50px;    
+}
